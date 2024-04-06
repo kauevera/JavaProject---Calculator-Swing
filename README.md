@@ -1,2 +1,2 @@
 # JavaProject---Calculator-Swing
-This project is a simple Calculator, developed using the Swing library, in the Java Language (by IntelliJ).
+The "Simple Calculator", using Swing, is a Java project i made for test my initial Java's knowledge. In this project there are two text fields (which gets the values of the first and second number), a box with some options to get the operation of the calculation (Addition, subtraction, multiplication, division) and a "Calculate Button" to perform the operation and show the result on user's screen.
